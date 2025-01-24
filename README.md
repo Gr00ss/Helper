@@ -65,7 +65,6 @@
 Программа закроется
 ```
 
-![screen](https://i.imgur.com/KO8FQxI.png)
 
 ----
 
